@@ -1,0 +1,1 @@
+GET  https://us-central1-socialapp-48c17.cloudfunctions.net/helloWorld
